@@ -7,3 +7,6 @@ Download and run for NVIDIA Quadro T1000:
 docker exec -it ollama ollama pull qwen2.5-coder:1.5B
 docker exec -it ollama ollama run qwen2.5-coder:1.5B
 ```
+
+# Results
+GPU too slow -> model too slow -> Github Copilot is better.
