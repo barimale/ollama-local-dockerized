@@ -9,4 +9,4 @@ docker exec -it ollama ollama run qwen2.5-coder:1.5B
 ```
 
 # Results
-GPU too slow -> model too slow -> Github Copilot is better.
+GPU too slow -> model too slow -> Github Copilot is faster.
